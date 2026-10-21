@@ -1,0 +1,22 @@
+{
+  "wheel_id": 491,
+  "structure": "umbrella",
+  "slug": "bathroomrenovationcairns-104",
+  "project": "bathroom-renovations-cairns-questions-to-ask-58dfb3c3f6fe97adb7",
+  "parent_t1_ref": "bathroomrenovationcairns-151",
+  "node_role": "feeder",
+  "money_target": "bathroomrenovationcairns.com.au",
+  "primary_kw": "bathroom renovations cairns questions to ask",
+  "intended_url": "https://aumedia.neocities.org/bathroom-renovations-cairns-questions-to-ask-58dfb3c3f6fe97adb7/",
+  "tier": "T2",
+  "writeback_nonce": "ea96a9a1b9ff791f",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/bathroomrenovationcairns-151/",
+      "anchor": "this bathroom renovations cairns cost guide resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
